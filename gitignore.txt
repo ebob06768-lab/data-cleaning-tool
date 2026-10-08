@@ -1,0 +1,11 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Generated data and reports
+data/*_cleaned.csv
+data/*_cleaned.xlsx
+reports/*_cleaning_report.txt

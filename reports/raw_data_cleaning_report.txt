@@ -1,0 +1,13 @@
+DATA CLEANING REPORT
+====================
+
+Input file: raw_data.xlsx
+Output file: raw_data_cleaned.xlsx
+Original rows: 6
+Final rows: 5
+Duplicates removed: 1
+Spaces cleaned: 11
+Missing cells: 2 (5.56%)
+
+Missing values by column:
+- Email: 2 (33.33% of rows)

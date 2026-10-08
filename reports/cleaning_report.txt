@@ -1,0 +1,13 @@
+DATA CLEANING REPORT
+====================
+
+Input file: raw_data.xlsx
+Original rows: 6
+Final rows: 5
+Duplicates removed: 1
+Spaces cleaned: 11
+
+Missing values:
+- Email: 2
+
+Date column standardized to YYYY-MM-DD
